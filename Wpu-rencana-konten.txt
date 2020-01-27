@@ -3,9 +3,11 @@ Rencana konten wpu
 Javascript
 *Es6
 *Framework javascript
- ^ Angular
+ ^ Vue
  ^ React
+Struktur data dasar
 Php framework
  ^ Laravel
 Interview
 Vlogs
+Python
