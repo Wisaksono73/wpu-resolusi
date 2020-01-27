@@ -3,6 +3,7 @@ Rencana konten wpu
 Javascript
 *Es6
 *Framework javascript
+Struktur data dasar
 Php framework
 Interview
 Vlogs
